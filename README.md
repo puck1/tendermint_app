@@ -9,3 +9,7 @@ TMHOME="$PWD/example" tendermint init
 ```bash
 ./tendermint_app -config="example/config/config.toml"
 ```
+
+# badger storage
+
+default:/tmp/badger
